@@ -1,0 +1,4 @@
+vendor
+.env
+config.php
+app.ini
